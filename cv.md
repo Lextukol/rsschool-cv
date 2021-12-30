@@ -1,59 +1,60 @@
-#Aleksei Zamzhitskii
+# Aleksei Zamzhitskii
 
-##Junior Frontend Developer
+## Junior Frontend Developer
+
 ************************
 
-###contact me
+### contact me
 
 
-####Phone: +7 (929) 507-66-38
+#### Phone: +7 (929) 507-66-38
 
 
-####Email: lextukol@mail.ru
+#### Email: lextukol@mail.ru
 
 
-####Addres: Kolomna, Moskovskaya obl., Russia
+#### Addres: Kolomna, Moskovskaya obl., Russia
 ************************
-###about me
+### about me
 
 
 Hi! I am studying programming, I have set a goal to become a frontend developer.
 
 I like to ride a motorcycle, play the guitar. In winter I go snowboarding and downhill skiing.I am purposeful, self-confident, punctual. I quickly find contact with people. Played KVN, worked as a wedding host. Opened his own auto parts store.
 ***************************
-###my skills
+### my skills
 
-*HTML5 Basic
+* HTML5 Basic
 
-*CSS3 Basic
+* CSS3 Basic
 
-*Git & GitHub
+* Git & GitHub
 
-*Figma
+* Figma
 
-*MS Ofice
+* MS Ofice
 *****************************
-###courses
+### courses
 
 
-*Introduction to web development at the "HTML Academy" (completed)
+* Introduction to web development at the "HTML Academy" (completed)
 
 
-*Introduction to HTML and CSS at the "HTML Academy" (completed)
+* Introduction to HTML and CSS at the "HTML Academy" (completed)
 
 
-    +[Моя работа по окончанию]: https://github.com/Lextukol/my-site.git
-*Web Designer: Explosive start at the (completed)
+    + [Моя работа по окончанию]: https://github.com/Lextukol/my-site.git
+* Web Designer: Explosive start at the (completed)
 
 
-*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 
 ***************************
-###language:
+### language:
 
 
-*English - Beginner/Pre-intermediate
+* English - Beginner/Pre-intermediate
 
 
-*Russian - Native
+* Russian - Native
