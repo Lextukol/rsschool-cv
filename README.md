@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lextukol.github.io/rsschool-cv
