@@ -32,6 +32,7 @@ html {
 body {
     font-family: "PlayfairDisplay", sans-serif;
     font-size: 16px;
+    line-height: 1.5;
     min-height: 100vh;
     margin: 0;
     padding: 0;
@@ -42,7 +43,7 @@ body {
 }
 
 header {
-    border: 1px solid rgb(255, 158, 158);
+    border: 1px solid rgb(10, 10, 10);
 }
 
 a {
@@ -61,21 +62,25 @@ a {
     align-items: center;
     list-style: none;
   }
-
-.title-header {
+.profile {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
-
-  .nav-link {
+.text-header {
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 5px;
+}
+.nav-link {
     padding: 0 20px;
     line-height: 50px;
     transition: .3s;
-  }
+}
 
 main {
-    border: 1px solid rgb(137, 245, 137);
+    border: 1px solid rgb(10, 10, 10);
 }
 
 .main-container {
@@ -93,10 +98,16 @@ main {
 }
 
 footer {
-    border: 1px solid rgb(255, 158, 158);
+    border: 1px solid rgb(10, 10, 10);
 }
 
 .container {
     max-width: 1440px;
     margin: 0 auto;
-  }
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
